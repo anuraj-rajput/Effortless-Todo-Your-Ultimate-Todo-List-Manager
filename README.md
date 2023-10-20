@@ -1,6 +1,6 @@
 # Effortless Todo Mastery
 
-![Project Logo](project-logo.png)
+![Project Logo]([project-logo.png](https://i.ytimg.com/vi/W0Uf_xu350k/maxresdefault.jpg))
 
 Effortless Todo Mastery is your go-to web-based Todo List Manager. Streamline your task organization and management with this user-friendly application built with React and the Context API.
 
